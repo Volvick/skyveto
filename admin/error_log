@@ -1,0 +1,210 @@
+[22-Sep-2025 13:51:14 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 13:51:14 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 14:28:07 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 14:28:56 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 14:28:56 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 17:00:57 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 17:00:57 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 13:07:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/login.php(8): include_once('/home/skyvetoc/...')
+#2 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[22-Sep-2025 13:07:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/login.php(8): include_once('/home/skyvetoc/...')
+#2 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[22-Sep-2025 13:07:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/login.php(8): include_once('/home/skyvetoc/...')
+#2 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[22-Sep-2025 13:07:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/common/header.php(7): include_once('/home/skyvetoc/...')
+#2 /home/skyvetoc/public_html/admin/index.php(6): include_once('/home/skyvetoc/...')
+#3 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[22-Sep-2025 13:07:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/common/header.php(7): include_once('/home/skyvetoc/...')
+#2 /home/skyvetoc/public_html/admin/index.php(6): include_once('/home/skyvetoc/...')
+#3 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[22-Sep-2025 13:07:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/common/header.php(7): include_once('/home/skyvetoc/...')
+#2 /home/skyvetoc/public_html/admin/index.php(6): include_once('/home/skyvetoc/...')
+#3 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[22-Sep-2025 13:07:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/common/header.php(7): include_once('/home/skyvetoc/...')
+#2 /home/skyvetoc/public_html/admin/index.php(6): include_once('/home/skyvetoc/...')
+#3 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[22-Sep-2025 13:09:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/common/header.php(7): include_once('/home/skyvetoc/...')
+#2 /home/skyvetoc/public_html/admin/index.php(6): include_once('/home/skyvetoc/...')
+#3 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[22-Sep-2025 13:10:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/common/header.php(7): include_once('/home/skyvetoc/...')
+#2 /home/skyvetoc/public_html/admin/index.php(6): include_once('/home/skyvetoc/...')
+#3 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[22-Sep-2025 19:43:12 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 19:43:12 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 19:44:40 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 19:44:40 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 19:45:18 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[22-Sep-2025 19:45:21 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 07:31:12 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 07:31:12 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 07:31:12 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 07:49:31 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 07:49:31 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 07:49:31 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 07:49:46 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 07:49:50 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 07:49:50 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 07:49:50 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 08:50:13 Asia/Kolkata] PHP Warning:  Undefined property: mysqli::$in_transaction in /home/skyvetoc/public_html/admin/product_ajax.php on line 132
+[23-Sep-2025 08:52:46 Asia/Kolkata] PHP Warning:  Undefined property: mysqli::$in_transaction in /home/skyvetoc/public_html/admin/product_ajax.php on line 132
+[23-Sep-2025 08:56:29 Asia/Kolkata] PHP Warning:  Undefined property: mysqli::$in_transaction in /home/skyvetoc/public_html/admin/product_ajax.php on line 132
+[23-Sep-2025 13:01:34 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 13:01:34 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 13:01:34 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 13:01:50 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 13:01:50 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 13:01:50 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 15:51:20 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 15:51:20 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 15:51:20 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 15:51:57 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 15:51:57 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 15:51:57 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 15:54:36 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 15:54:36 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 15:54:36 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 19:45:59 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 19:45:59 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 19:45:59 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 19:45:59 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 19:45:59 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 22:43:45 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 22:43:45 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 22:43:45 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 22:43:45 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 22:43:45 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[23-Sep-2025 22:43:45 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 10:06:28 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 10:06:28 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 10:06:28 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 10:06:28 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 10:06:28 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 10:06:28 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 10:06:28 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 10:06:28 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 22:12:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 22:12:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 22:12:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 22:12:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 22:12:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 22:12:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[30-Sep-2025 22:12:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[02-Oct-2025 18:05:21 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[02-Oct-2025 18:05:21 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[02-Oct-2025 18:05:21 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[02-Oct-2025 18:05:21 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[02-Oct-2025 18:05:21 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[02-Oct-2025 18:05:21 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[02-Oct-2025 18:05:21 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[06-Oct-2025 10:50:41 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[06-Oct-2025 10:50:41 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[06-Oct-2025 10:50:41 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[06-Oct-2025 10:50:41 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[06-Oct-2025 10:50:41 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[06-Oct-2025 10:50:41 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[06-Oct-2025 10:50:41 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 13:58:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 13:58:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 13:58:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 13:58:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 13:58:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 13:58:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 13:58:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 13:58:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 13:58:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 18:38:08 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 18:38:08 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 18:38:08 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 18:38:08 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 18:38:08 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 18:38:08 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 18:38:08 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 18:38:08 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[10-Oct-2025 18:38:08 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[15-Oct-2025 13:08:29 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/skyvetoc/public_html/admin/user.php on line 86
+[18-Oct-2025 03:22:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/common/header.php(6): include_once('/home/skyvetoc/...')
+#2 /home/skyvetoc/public_html/admin/index.php(6): include_once('/home/skyvetoc/...')
+#3 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[18-Oct-2025 03:22:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/common/header.php(6): include_once('/home/skyvetoc/...')
+#2 /home/skyvetoc/public_html/admin/index.php(6): include_once('/home/skyvetoc/...')
+#3 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[18-Oct-2025 03:22:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/common/header.php(6): include_once('/home/skyvetoc/...')
+#2 /home/skyvetoc/public_html/admin/index.php(6): include_once('/home/skyvetoc/...')
+#3 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[18-Oct-2025 03:23:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/common/header.php(6): include_once('/home/skyvetoc/...')
+#2 /home/skyvetoc/public_html/admin/index.php(6): include_once('/home/skyvetoc/...')
+#3 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[18-Oct-2025 03:23:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/login.php(8): include_once('/home/skyvetoc/...')
+#2 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
+[18-Oct-2025 03:23:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'skyvetoc'@'localhost' (using password: YES) in /home/skyvetoc/public_html/common/config.php:43
+Stack trace:
+#0 /home/skyvetoc/public_html/common/config.php(43): mysqli->__construct()
+#1 /home/skyvetoc/public_html/admin/login.php(8): include_once('/home/skyvetoc/...')
+#2 {main}
+  thrown in /home/skyvetoc/public_html/common/config.php on line 43
